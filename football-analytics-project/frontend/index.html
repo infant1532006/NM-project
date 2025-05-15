@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Football Analytics Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>⚽ Football Analytics Dashboard</h1>
+
+    <div class="card">
+      <h2>Upload Football Match CSV</h2>
+      <input type="file" id="fileInput" />
+      <button onclick="uploadFile()">Upload & Analyze</button>
+    </div>
+
+    <div class="card">
+      <h2>Player Performance Metrics</h2>
+      <canvas id="playerChart" width="400" height="200"></canvas>
+    </div>
+
+    <div class="card">
+      <h2>Team Level Statistics</h2>
+      <canvas id="teamChart" width="400" height="200"></canvas>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+

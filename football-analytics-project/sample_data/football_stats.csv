@@ -1,0 +1,1002 @@
+
+MatchID,Team,Player,Goals,Assists,Passes,Tackles,Possession,Formation
+120,Juventus,Player 1,1,2,70,5,45.5,3-5-2
+499,Arsenal,Player 2,1,0,92,5,65.6,4-3-3
+309,Juventus,Player 3,0,1,41,3,69.7,4-2-3-1
+172,Juventus,Player 4,0,2,20,0,51.7,4-4-2
+353,Inter Milan,Player 5,0,0,55,3,68.9,4-2-3-1
+177,Inter Milan,Player 6,3,1,82,2,57.2,4-4-2
+269,Inter Milan,Player 7,0,2,92,0,57.9,3-4-3
+36,Juventus,Player 8,2,2,42,3,52.2,3-4-3
+186,Real Madrid,Player 9,1,1,64,4,54.8,3-5-2
+205,Juventus,Player 10,3,0,24,1,53.7,4-4-2
+273,Inter Milan,Player 11,3,2,92,0,65.9,3-5-2
+120,Barcelona,Player 12,2,1,22,1,60.6,4-3-3
+314,Liverpool,Player 13,3,1,58,4,47.2,3-5-2
+147,Manchester City,Player 14,0,1,78,1,52.1,4-4-2
+423,Bayern Munich,Player 15,3,2,57,1,43.3,3-5-2
+466,Bayern Munich,Player 16,0,2,88,5,51.3,4-4-2
+111,PSG,Player 17,1,2,30,0,53.8,3-4-3
+185,Juventus,Player 18,3,0,35,2,69.6,4-4-2
+315,Real Madrid,Player 19,2,1,20,5,40.2,3-5-2
+54,PSG,Player 20,2,1,93,3,54.7,3-5-2
+466,PSG,Player 21,0,2,37,0,66.0,4-4-2
+381,PSG,Player 22,3,1,92,4,40.9,4-2-3-1
+428,Arsenal,Player 23,3,2,81,2,42.0,4-3-3
+34,Barcelona,Player 24,0,0,95,3,47.7,4-3-3
+87,Bayern Munich,Player 25,2,0,33,5,62.5,4-2-3-1
+39,Manchester City,Player 26,3,1,89,5,53.8,4-4-2
+383,Bayern Munich,Player 27,0,2,45,0,45.7,4-2-3-1
+238,Manchester City,Player 28,2,1,93,3,50.7,3-4-3
+241,Bayern Munich,Player 29,3,1,85,5,48.8,4-4-2
+167,Manchester City,Player 30,2,2,80,5,53.6,3-4-3
+488,Real Madrid,Player 31,0,0,26,2,55.4,3-5-2
+343,Inter Milan,Player 32,2,2,76,5,51.7,4-3-3
+430,Bayern Munich,Player 33,3,1,19,1,54.4,4-2-3-1
+291,Liverpool,Player 34,0,1,68,5,63.2,3-4-3
+254,Real Madrid,Player 35,2,1,58,3,42.7,4-3-3
+457,Real Madrid,Player 36,3,2,92,0,52.9,3-4-3
+407,Chelsea,Player 37,1,0,42,0,66.8,3-5-2
+287,Chelsea,Player 38,1,0,100,3,44.4,3-4-3
+202,PSG,Player 39,3,0,39,3,49.8,4-4-2
+91,Barcelona,Player 40,1,1,48,5,47.4,4-2-3-1
+298,Barcelona,Player 41,3,2,96,4,60.3,3-4-3
+137,Arsenal,Player 42,0,0,86,3,62.9,3-5-2
+387,Barcelona,Player 43,1,2,16,3,59.1,4-3-3
+369,Arsenal,Player 44,0,1,89,3,62.5,3-5-2
+411,Bayern Munich,Player 45,0,1,31,3,45.5,4-2-3-1
+255,Chelsea,Player 46,3,2,17,2,40.1,4-2-3-1
+435,Inter Milan,Player 47,3,2,96,4,49.1,3-4-3
+388,Juventus,Player 48,0,1,39,1,67.8,4-2-3-1
+92,Arsenal,Player 49,3,0,18,4,61.4,3-4-3
+247,Bayern Munich,Player 50,2,1,63,2,66.4,3-5-2
+403,Barcelona,Player 51,3,1,46,0,64.3,3-5-2
+195,Juventus,Player 52,3,1,27,1,56.3,4-2-3-1
+113,Real Madrid,Player 53,3,0,29,0,62.8,3-4-3
+325,Barcelona,Player 54,1,0,95,0,46.6,3-4-3
+283,Real Madrid,Player 55,0,1,23,3,52.6,4-2-3-1
+100,Juventus,Player 56,2,2,15,2,47.1,4-4-2
+119,Liverpool,Player 57,0,1,85,5,57.3,4-3-3
+377,Barcelona,Player 58,1,2,55,4,52.6,4-2-3-1
+447,Manchester City,Player 59,2,0,12,0,50.0,3-4-3
+63,Manchester City,Player 60,2,0,19,1,42.5,3-4-3
+259,Barcelona,Player 61,0,2,83,1,68.1,3-5-2
+50,Barcelona,Player 62,2,2,81,5,49.5,4-2-3-1
+204,Bayern Munich,Player 63,1,1,75,0,49.6,3-5-2
+474,Inter Milan,Player 64,0,2,50,1,62.6,4-2-3-1
+384,Bayern Munich,Player 65,1,2,49,3,47.9,3-4-3
+107,Real Madrid,Player 66,0,1,72,2,44.5,3-4-3
+47,Inter Milan,Player 67,3,0,61,0,63.7,3-5-2
+438,Inter Milan,Player 68,0,0,92,4,59.0,4-4-2
+106,Manchester City,Player 69,3,2,96,4,56.0,4-3-3
+485,Juventus,Player 70,3,2,16,3,64.1,4-3-3
+489,Barcelona,Player 71,3,2,98,1,66.1,4-4-2
+118,PSG,Player 72,3,0,21,1,57.9,4-2-3-1
+92,PSG,Player 73,0,2,18,2,54.4,4-4-2
+483,Manchester City,Player 74,1,2,38,2,67.1,3-4-3
+255,Barcelona,Player 75,0,1,77,1,50.0,3-4-3
+200,Real Madrid,Player 76,2,0,51,1,41.5,4-2-3-1
+164,Arsenal,Player 77,3,0,76,5,67.0,4-4-2
+488,Liverpool,Player 78,2,0,25,1,49.5,3-4-3
+251,Chelsea,Player 79,3,1,87,2,61.1,4-2-3-1
+1,Chelsea,Player 80,3,1,39,3,43.8,4-3-3
+195,Manchester City,Player 81,0,1,35,2,40.8,3-5-2
+274,Chelsea,Player 82,1,2,39,2,44.3,4-3-3
+408,Manchester City,Player 83,1,0,96,3,65.9,4-2-3-1
+492,PSG,Player 84,1,0,93,3,41.5,4-4-2
+227,Bayern Munich,Player 85,2,0,48,2,60.8,4-2-3-1
+189,Manchester City,Player 86,1,1,75,2,41.0,4-3-3
+342,Barcelona,Player 87,1,0,24,1,54.8,4-2-3-1
+462,Manchester City,Player 88,2,2,75,1,56.4,4-4-2
+334,Bayern Munich,Player 89,1,0,30,5,62.9,3-4-3
+319,Real Madrid,Player 90,3,2,68,1,56.8,3-4-3
+111,Chelsea,Player 91,0,0,15,3,61.8,4-3-3
+14,Manchester City,Player 92,1,1,91,5,58.8,4-4-2
+233,Manchester City,Player 93,0,0,52,1,68.0,3-5-2
+250,Chelsea,Player 94,1,1,69,2,63.5,4-3-3
+266,Inter Milan,Player 95,0,2,42,2,68.5,3-4-3
+313,Liverpool,Player 96,3,0,95,5,59.7,3-4-3
+201,PSG,Player 97,3,2,69,4,43.8,4-2-3-1
+418,PSG,Player 98,0,0,27,0,68.8,4-4-2
+138,Barcelona,Player 99,2,2,87,1,57.6,4-4-2
+395,Barcelona,Player 100,3,0,80,0,57.3,4-2-3-1
+132,Barcelona,Player 101,0,1,73,1,44.7,3-5-2
+176,Manchester City,Player 102,3,1,78,4,45.8,4-4-2
+264,PSG,Player 103,2,1,53,5,60.1,4-3-3
+299,Real Madrid,Player 104,0,1,10,1,45.4,4-3-3
+222,Inter Milan,Player 105,0,1,98,5,62.6,3-4-3
+112,PSG,Player 106,1,1,34,2,55.3,4-2-3-1
+168,Juventus,Player 107,2,1,61,1,60.4,4-2-3-1
+363,Liverpool,Player 108,1,2,94,1,46.9,3-5-2
+489,Real Madrid,Player 109,2,0,44,4,46.1,4-4-2
+133,Chelsea,Player 110,1,2,46,5,48.9,3-4-3
+169,Inter Milan,Player 111,3,1,69,1,47.2,4-4-2
+151,Chelsea,Player 112,1,0,61,1,43.4,4-2-3-1
+331,Liverpool,Player 113,3,1,32,2,69.4,3-5-2
+345,Real Madrid,Player 114,0,0,22,1,43.0,3-4-3
+25,Real Madrid,Player 115,1,2,51,4,65.4,4-2-3-1
+439,Real Madrid,Player 116,0,0,65,3,65.3,4-3-3
+319,Juventus,Player 117,3,0,54,1,68.9,4-2-3-1
+296,Juventus,Player 118,3,1,71,3,59.7,4-3-3
+151,Liverpool,Player 119,2,1,60,1,53.5,3-4-3
+86,Juventus,Player 120,3,1,62,5,57.2,4-3-3
+317,Liverpool,Player 121,1,1,90,4,54.3,4-4-2
+153,Arsenal,Player 122,0,1,15,3,48.5,3-5-2
+286,PSG,Player 123,2,0,56,2,52.3,3-4-3
+266,Liverpool,Player 124,3,0,59,4,60.7,3-4-3
+349,Arsenal,Player 125,0,2,11,0,41.1,3-5-2
+187,Arsenal,Player 126,1,0,36,0,40.3,4-3-3
+111,Barcelona,Player 127,2,1,57,1,58.0,4-4-2
+239,Barcelona,Player 128,2,2,75,2,52.3,4-2-3-1
+88,Real Madrid,Player 129,2,2,39,3,45.3,3-5-2
+27,Liverpool,Player 130,1,1,47,3,43.7,3-5-2
+257,Manchester City,Player 131,1,0,81,5,68.9,4-2-3-1
+345,Real Madrid,Player 132,2,0,67,2,49.5,4-2-3-1
+139,Real Madrid,Player 133,0,1,70,4,53.9,3-4-3
+207,Liverpool,Player 134,0,2,99,4,47.4,4-2-3-1
+303,Liverpool,Player 135,0,1,18,2,59.3,4-4-2
+222,Manchester City,Player 136,1,0,69,1,45.5,4-2-3-1
+160,Real Madrid,Player 137,0,0,87,4,69.8,3-4-3
+174,Barcelona,Player 138,3,1,63,1,62.8,3-4-3
+18,Liverpool,Player 139,3,2,77,1,63.5,4-2-3-1
+287,Liverpool,Player 140,3,0,19,4,68.9,3-5-2
+472,Inter Milan,Player 141,2,1,87,2,57.2,3-4-3
+493,Barcelona,Player 142,1,2,27,1,62.8,3-4-3
+133,Bayern Munich,Player 143,2,1,90,3,45.6,3-4-3
+58,Liverpool,Player 144,2,0,59,4,56.3,3-5-2
+176,Juventus,Player 145,2,1,15,5,44.6,3-4-3
+485,Arsenal,Player 146,2,1,80,3,54.1,3-4-3
+426,Chelsea,Player 147,2,1,21,4,41.6,3-4-3
+182,Barcelona,Player 148,1,0,79,0,68.2,3-4-3
+223,Liverpool,Player 149,0,0,93,2,50.1,3-4-3
+426,Arsenal,Player 150,3,0,22,4,53.3,4-2-3-1
+44,Bayern Munich,Player 151,1,2,61,2,47.0,3-5-2
+333,Liverpool,Player 152,2,0,14,2,67.4,3-5-2
+118,PSG,Player 153,3,1,45,0,55.5,4-2-3-1
+418,Liverpool,Player 154,1,1,41,4,69.2,4-4-2
+66,Bayern Munich,Player 155,2,1,21,4,40.2,4-2-3-1
+263,Inter Milan,Player 156,2,2,54,2,52.6,4-4-2
+456,Chelsea,Player 157,0,2,57,2,40.9,4-4-2
+445,Barcelona,Player 158,1,2,45,5,42.0,4-3-3
+52,Liverpool,Player 159,3,2,34,0,56.8,4-4-2
+414,Bayern Munich,Player 160,2,0,43,0,47.3,3-5-2
+403,Real Madrid,Player 161,1,1,99,4,59.6,4-4-2
+261,Liverpool,Player 162,3,0,70,2,68.6,3-4-3
+415,Chelsea,Player 163,3,1,36,1,67.3,3-4-3
+209,Manchester City,Player 164,2,0,35,1,69.4,3-4-3
+35,Chelsea,Player 165,1,2,57,5,47.3,4-4-2
+407,Inter Milan,Player 166,1,2,89,4,41.3,3-5-2
+171,PSG,Player 167,2,1,26,1,43.5,4-2-3-1
+445,Inter Milan,Player 168,0,0,55,4,59.5,3-4-3
+409,Bayern Munich,Player 169,3,1,56,5,57.6,4-3-3
+17,Arsenal,Player 170,2,2,84,0,53.3,4-4-2
+471,Liverpool,Player 171,1,0,64,2,54.4,4-3-3
+54,Chelsea,Player 172,0,0,28,1,66.8,3-5-2
+158,Inter Milan,Player 173,0,1,28,0,43.0,3-4-3
+322,Manchester City,Player 174,1,1,89,4,68.1,4-4-2
+74,Arsenal,Player 175,2,0,63,4,59.7,4-4-2
+329,Barcelona,Player 176,1,1,65,4,50.9,3-4-3
+80,Barcelona,Player 177,1,1,33,1,59.7,4-2-3-1
+25,Arsenal,Player 178,1,1,46,1,51.6,4-3-3
+22,Inter Milan,Player 179,3,2,100,1,60.1,3-4-3
+23,Arsenal,Player 180,0,0,83,4,66.4,3-5-2
+73,Juventus,Player 181,1,1,99,0,43.7,3-4-3
+353,Liverpool,Player 182,2,2,71,1,48.5,3-5-2
+378,Barcelona,Player 183,1,0,89,1,44.2,3-5-2
+393,PSG,Player 184,2,1,10,3,54.4,4-2-3-1
+7,Juventus,Player 185,0,0,50,1,43.3,4-4-2
+35,Chelsea,Player 186,0,0,12,5,53.1,4-2-3-1
+189,Inter Milan,Player 187,3,2,38,2,64.2,3-5-2
+426,Inter Milan,Player 188,3,1,83,5,63.9,4-4-2
+135,Chelsea,Player 189,3,1,82,5,47.8,4-2-3-1
+328,Liverpool,Player 190,2,2,93,2,59.3,4-4-2
+473,Arsenal,Player 191,2,2,30,0,53.7,3-5-2
+91,Bayern Munich,Player 192,1,2,89,1,45.7,4-4-2
+45,PSG,Player 193,0,2,35,3,60.9,3-4-3
+288,Liverpool,Player 194,1,1,36,0,69.7,3-4-3
+87,Liverpool,Player 195,3,1,87,5,60.4,3-5-2
+446,Bayern Munich,Player 196,1,1,10,0,46.5,4-2-3-1
+318,Real Madrid,Player 197,3,2,29,5,63.2,4-2-3-1
+445,Liverpool,Player 198,2,2,34,0,47.7,3-4-3
+421,Inter Milan,Player 199,2,2,28,5,57.2,4-4-2
+423,Real Madrid,Player 200,1,0,89,2,43.1,4-3-3
+122,Liverpool,Player 201,3,1,89,1,58.2,3-4-3
+495,Inter Milan,Player 202,2,0,85,0,56.3,4-4-2
+42,Bayern Munich,Player 203,1,2,66,2,46.3,3-5-2
+314,Juventus,Player 204,1,2,92,0,44.7,3-4-3
+464,Chelsea,Player 205,3,1,15,4,61.6,4-3-3
+385,Juventus,Player 206,1,0,36,2,44.6,3-4-3
+399,Arsenal,Player 207,3,1,19,3,40.8,3-5-2
+292,PSG,Player 208,2,1,27,1,42.5,4-3-3
+371,Manchester City,Player 209,0,2,26,2,43.4,3-5-2
+260,Bayern Munich,Player 210,2,0,39,0,64.7,4-2-3-1
+403,Real Madrid,Player 211,0,1,80,2,54.7,4-4-2
+441,Arsenal,Player 212,1,1,71,2,42.7,3-4-3
+183,Inter Milan,Player 213,0,0,77,3,54.2,4-2-3-1
+481,Real Madrid,Player 214,0,1,94,4,66.0,3-5-2
+388,Arsenal,Player 215,2,2,42,1,52.4,3-5-2
+116,Arsenal,Player 216,2,1,90,0,52.8,4-2-3-1
+15,Liverpool,Player 217,1,1,49,4,59.4,4-3-3
+7,Arsenal,Player 218,0,1,80,2,46.7,3-4-3
+433,Chelsea,Player 219,1,2,20,2,63.0,4-3-3
+366,Arsenal,Player 220,3,0,11,1,56.3,4-2-3-1
+329,Juventus,Player 221,0,2,42,0,57.8,4-3-3
+177,Chelsea,Player 222,3,2,25,4,65.8,3-4-3
+270,Barcelona,Player 223,2,1,22,2,65.1,3-4-3
+446,Juventus,Player 224,3,0,26,1,69.5,3-5-2
+27,Real Madrid,Player 225,0,0,95,3,55.2,4-4-2
+147,Arsenal,Player 226,3,2,24,0,46.6,4-2-3-1
+227,Juventus,Player 227,3,2,61,3,69.2,4-4-2
+307,Arsenal,Player 228,1,0,70,3,42.5,4-3-3
+354,Manchester City,Player 229,1,0,63,0,67.9,3-4-3
+134,Liverpool,Player 230,2,2,90,5,58.1,4-4-2
+98,Real Madrid,Player 231,0,1,58,4,50.2,3-4-3
+217,Manchester City,Player 232,3,0,75,4,51.9,4-2-3-1
+390,Inter Milan,Player 233,3,0,93,5,44.3,3-5-2
+24,Juventus,Player 234,2,0,14,5,53.3,4-4-2
+371,Inter Milan,Player 235,1,1,40,0,68.3,4-3-3
+250,Liverpool,Player 236,1,1,59,2,50.1,4-4-2
+330,Real Madrid,Player 237,1,2,61,5,48.0,4-3-3
+192,Real Madrid,Player 238,2,2,14,1,44.1,4-4-2
+300,Arsenal,Player 239,3,1,31,4,60.0,3-5-2
+160,Real Madrid,Player 240,1,1,43,5,44.0,4-4-2
+295,PSG,Player 241,3,1,78,4,62.7,4-2-3-1
+44,Arsenal,Player 242,1,0,96,2,67.3,4-2-3-1
+290,PSG,Player 243,3,2,90,2,51.4,4-4-2
+467,Juventus,Player 244,2,1,23,5,54.2,3-5-2
+143,Real Madrid,Player 245,0,0,39,4,41.6,4-2-3-1
+450,Arsenal,Player 246,3,1,58,0,48.2,3-4-3
+279,Juventus,Player 247,1,2,85,1,41.8,4-2-3-1
+436,Manchester City,Player 248,2,2,93,1,44.2,4-2-3-1
+54,Juventus,Player 249,1,1,68,0,62.8,4-4-2
+17,Manchester City,Player 250,1,0,82,2,46.8,4-4-2
+253,Juventus,Player 251,3,1,98,0,47.2,4-4-2
+317,Real Madrid,Player 252,3,2,80,1,40.2,4-2-3-1
+249,PSG,Player 253,3,0,82,0,56.3,4-4-2
+50,Chelsea,Player 254,0,1,40,2,42.0,3-5-2
+168,Chelsea,Player 255,0,1,30,2,61.1,4-4-2
+168,Manchester City,Player 256,1,0,27,5,63.6,4-2-3-1
+293,PSG,Player 257,3,0,51,4,66.8,4-4-2
+489,PSG,Player 258,3,0,93,4,58.7,4-3-3
+71,Juventus,Player 259,2,1,48,0,47.7,4-3-3
+180,Juventus,Player 260,3,0,77,1,53.5,4-3-3
+218,Manchester City,Player 261,3,0,87,4,65.9,3-4-3
+417,Bayern Munich,Player 262,0,2,25,0,49.5,4-2-3-1
+169,Liverpool,Player 263,3,0,32,2,45.8,4-2-3-1
+241,Bayern Munich,Player 264,2,2,21,0,40.4,4-2-3-1
+441,Arsenal,Player 265,0,1,64,1,52.5,4-3-3
+107,Liverpool,Player 266,3,1,72,1,49.8,4-2-3-1
+250,Juventus,Player 267,3,2,96,5,64.2,3-5-2
+469,Bayern Munich,Player 268,0,0,88,4,61.2,3-4-3
+170,Barcelona,Player 269,0,0,47,4,69.5,3-4-3
+432,Manchester City,Player 270,3,0,75,1,61.6,4-4-2
+241,PSG,Player 271,3,2,81,0,55.9,3-4-3
+62,Chelsea,Player 272,3,2,92,1,59.5,3-5-2
+247,Barcelona,Player 273,0,1,83,4,65.5,4-3-3
+373,Barcelona,Player 274,2,0,43,3,67.7,4-2-3-1
+316,Real Madrid,Player 275,0,2,25,4,45.5,4-3-3
+103,Manchester City,Player 276,2,1,63,1,62.8,4-2-3-1
+401,Chelsea,Player 277,0,2,82,5,41.1,3-4-3
+382,PSG,Player 278,0,1,33,2,47.4,4-2-3-1
+223,Barcelona,Player 279,2,0,91,0,61.9,3-4-3
+136,Real Madrid,Player 280,3,2,54,1,60.6,3-4-3
+429,Real Madrid,Player 281,2,1,16,1,56.9,3-5-2
+12,Bayern Munich,Player 282,2,2,17,3,56.7,4-3-3
+251,Inter Milan,Player 283,1,1,94,1,41.3,3-4-3
+15,Inter Milan,Player 284,0,0,27,4,51.6,3-4-3
+444,Barcelona,Player 285,0,2,86,1,65.8,4-2-3-1
+360,Liverpool,Player 286,2,1,93,4,47.9,4-2-3-1
+199,Real Madrid,Player 287,2,0,34,2,44.8,4-4-2
+395,Real Madrid,Player 288,0,0,98,4,63.3,3-5-2
+458,Chelsea,Player 289,2,2,53,5,66.1,3-4-3
+144,PSG,Player 290,2,2,42,4,46.1,3-5-2
+95,Inter Milan,Player 291,2,2,31,4,45.7,4-3-3
+352,Liverpool,Player 292,2,1,81,0,57.5,4-2-3-1
+328,Barcelona,Player 293,3,0,77,3,52.5,4-4-2
+415,Chelsea,Player 294,1,1,83,1,47.2,4-4-2
+500,Liverpool,Player 295,0,2,87,2,55.5,4-4-2
+23,Inter Milan,Player 296,1,0,100,3,70.0,4-2-3-1
+266,Barcelona,Player 297,3,2,17,2,55.9,4-4-2
+380,Manchester City,Player 298,2,0,82,3,44.6,4-4-2
+42,Barcelona,Player 299,2,2,40,0,66.0,3-5-2
+132,Arsenal,Player 300,0,2,65,1,46.2,4-3-3
+236,Bayern Munich,Player 301,1,1,50,5,65.9,4-2-3-1
+309,Juventus,Player 302,2,2,88,5,65.4,4-3-3
+448,Chelsea,Player 303,2,1,45,3,64.8,4-3-3
+266,PSG,Player 304,0,0,63,1,63.4,3-4-3
+399,Liverpool,Player 305,2,0,57,1,55.4,4-2-3-1
+241,Arsenal,Player 306,3,2,24,2,50.7,4-3-3
+284,Chelsea,Player 307,3,2,50,1,55.6,4-3-3
+477,Chelsea,Player 308,1,2,82,1,69.2,4-3-3
+314,PSG,Player 309,3,2,51,1,58.1,4-4-2
+197,Inter Milan,Player 310,1,2,71,3,52.8,4-4-2
+338,Barcelona,Player 311,3,1,86,1,62.2,3-4-3
+218,Real Madrid,Player 312,0,1,51,0,50.2,4-3-3
+3,Barcelona,Player 313,0,2,82,1,54.6,4-4-2
+224,Barcelona,Player 314,0,1,23,1,47.1,3-4-3
+194,Bayern Munich,Player 315,3,0,26,0,66.2,4-3-3
+247,PSG,Player 316,3,1,91,4,58.7,4-3-3
+254,Bayern Munich,Player 317,0,0,96,5,55.1,3-5-2
+25,Manchester City,Player 318,1,1,12,4,40.2,3-4-3
+107,Barcelona,Player 319,0,1,14,3,68.4,4-3-3
+62,Manchester City,Player 320,2,2,67,4,57.2,4-3-3
+328,Juventus,Player 321,1,0,32,2,50.9,4-2-3-1
+271,Liverpool,Player 322,0,2,79,0,42.9,3-4-3
+369,Barcelona,Player 323,0,1,63,4,68.0,4-3-3
+256,Manchester City,Player 324,2,1,90,1,60.6,4-3-3
+338,Real Madrid,Player 325,0,1,35,2,49.2,4-2-3-1
+330,Chelsea,Player 326,1,1,72,1,47.5,3-4-3
+252,Inter Milan,Player 327,3,1,48,1,43.2,3-4-3
+378,Chelsea,Player 328,3,1,50,5,58.9,4-3-3
+432,PSG,Player 329,1,1,77,5,61.8,4-3-3
+52,Inter Milan,Player 330,2,0,33,5,60.5,3-4-3
+480,Arsenal,Player 331,3,1,57,2,42.2,4-3-3
+46,Juventus,Player 332,0,1,29,0,42.8,3-4-3
+199,Bayern Munich,Player 333,3,0,66,1,66.1,4-4-2
+321,Bayern Munich,Player 334,2,0,61,3,62.1,4-4-2
+158,Arsenal,Player 335,1,2,12,0,66.3,3-5-2
+489,Real Madrid,Player 336,1,1,18,4,45.4,4-4-2
+383,Chelsea,Player 337,3,1,85,5,47.0,3-5-2
+293,Bayern Munich,Player 338,1,1,10,5,54.5,3-5-2
+45,Manchester City,Player 339,1,0,97,4,45.6,4-4-2
+226,Chelsea,Player 340,3,1,15,2,44.0,4-4-2
+135,Juventus,Player 341,3,2,84,2,59.0,4-4-2
+145,Liverpool,Player 342,0,0,10,2,69.3,4-3-3
+45,Juventus,Player 343,0,2,19,1,45.9,4-3-3
+39,PSG,Player 344,3,0,70,2,64.1,3-5-2
+330,Juventus,Player 345,3,2,61,1,56.5,4-2-3-1
+62,Chelsea,Player 346,1,0,23,4,54.4,3-4-3
+74,Arsenal,Player 347,0,1,12,4,54.4,4-4-2
+260,Chelsea,Player 348,0,0,24,4,47.8,4-4-2
+361,Arsenal,Player 349,3,1,17,5,65.3,4-3-3
+397,Inter Milan,Player 350,2,0,60,4,69.8,4-3-3
+105,PSG,Player 351,3,1,59,3,54.2,3-4-3
+407,Bayern Munich,Player 352,0,2,91,3,55.7,4-2-3-1
+117,Chelsea,Player 353,1,2,31,0,65.3,4-4-2
+257,PSG,Player 354,3,2,87,1,60.7,4-2-3-1
+422,Manchester City,Player 355,2,1,62,4,50.4,4-3-3
+448,Bayern Munich,Player 356,1,0,11,2,68.3,4-2-3-1
+406,Bayern Munich,Player 357,3,0,84,3,64.5,3-4-3
+358,Arsenal,Player 358,0,2,33,0,47.4,3-5-2
+280,Manchester City,Player 359,0,0,43,5,61.1,3-5-2
+49,Chelsea,Player 360,2,1,66,0,42.8,4-4-2
+172,Liverpool,Player 361,1,2,82,1,59.0,3-4-3
+249,Bayern Munich,Player 362,1,0,65,3,66.8,4-2-3-1
+428,Inter Milan,Player 363,1,2,31,3,59.6,4-3-3
+59,Inter Milan,Player 364,2,2,61,3,63.2,4-2-3-1
+263,PSG,Player 365,2,2,58,3,52.4,4-3-3
+104,PSG,Player 366,2,1,21,1,40.5,4-2-3-1
+39,Chelsea,Player 367,2,2,67,0,65.8,4-4-2
+96,Chelsea,Player 368,3,0,30,1,59.3,4-3-3
+252,Inter Milan,Player 369,2,2,97,2,56.2,4-4-2
+107,Chelsea,Player 370,3,0,38,5,68.9,4-2-3-1
+360,PSG,Player 371,3,2,78,1,49.4,4-3-3
+206,Liverpool,Player 372,2,1,33,4,43.5,4-4-2
+264,Manchester City,Player 373,2,2,59,3,65.3,3-5-2
+353,Arsenal,Player 374,0,2,77,0,67.2,4-2-3-1
+342,Bayern Munich,Player 375,0,1,52,1,53.1,3-4-3
+166,PSG,Player 376,3,0,56,5,52.6,4-2-3-1
+383,Juventus,Player 377,2,0,27,5,55.9,3-5-2
+480,Juventus,Player 378,0,2,16,0,57.4,4-2-3-1
+38,Barcelona,Player 379,3,2,33,3,58.7,3-4-3
+298,Inter Milan,Player 380,2,0,98,2,68.7,3-5-2
+405,Inter Milan,Player 381,2,0,13,0,43.3,4-3-3
+309,Bayern Munich,Player 382,3,2,41,4,67.5,4-4-2
+450,Bayern Munich,Player 383,3,0,100,5,40.8,4-2-3-1
+55,Arsenal,Player 384,1,0,16,4,46.8,4-3-3
+287,Barcelona,Player 385,0,2,26,4,50.9,3-5-2
+211,Arsenal,Player 386,0,2,40,4,59.2,4-2-3-1
+478,Liverpool,Player 387,2,1,35,5,68.6,4-4-2
+92,Arsenal,Player 388,1,1,16,4,56.6,3-5-2
+27,Real Madrid,Player 389,2,2,75,5,64.9,3-5-2
+476,PSG,Player 390,1,1,90,2,56.9,4-2-3-1
+15,Real Madrid,Player 391,0,0,48,3,57.7,3-5-2
+358,Barcelona,Player 392,0,1,96,1,62.3,4-3-3
+73,PSG,Player 393,0,2,36,4,45.9,4-4-2
+78,Chelsea,Player 394,1,0,67,4,62.7,4-4-2
+209,Barcelona,Player 395,0,2,84,2,44.7,4-4-2
+346,Inter Milan,Player 396,1,1,35,0,49.5,4-2-3-1
+104,Barcelona,Player 397,2,1,91,0,56.8,3-5-2
+497,Inter Milan,Player 398,1,2,81,4,43.2,3-4-3
+45,Bayern Munich,Player 399,0,0,50,2,62.3,4-4-2
+66,Liverpool,Player 400,0,1,53,1,54.1,4-2-3-1
+325,PSG,Player 401,1,0,99,0,53.4,4-3-3
+466,Inter Milan,Player 402,0,2,45,4,60.7,3-4-3
+195,Real Madrid,Player 403,1,2,23,3,65.5,3-4-3
+343,Juventus,Player 404,1,1,70,0,53.9,3-5-2
+261,PSG,Player 405,2,0,88,1,52.8,3-4-3
+299,Chelsea,Player 406,0,0,69,4,65.9,4-3-3
+391,Real Madrid,Player 407,2,1,58,3,64.7,4-3-3
+453,Arsenal,Player 408,3,1,27,0,65.3,3-4-3
+408,Barcelona,Player 409,2,0,99,3,64.5,3-5-2
+206,Liverpool,Player 410,0,2,75,4,47.2,4-4-2
+226,PSG,Player 411,1,1,77,4,69.6,4-4-2
+67,Inter Milan,Player 412,2,0,12,4,69.2,4-3-3
+269,Bayern Munich,Player 413,2,1,67,0,55.2,4-2-3-1
+73,Juventus,Player 414,1,0,96,5,43.5,4-2-3-1
+103,Liverpool,Player 415,3,2,70,5,67.9,4-2-3-1
+46,Manchester City,Player 416,2,0,57,2,51.5,3-4-3
+22,Barcelona,Player 417,0,2,12,2,47.7,4-2-3-1
+349,Manchester City,Player 418,3,0,53,5,67.9,4-3-3
+406,Real Madrid,Player 419,0,1,17,0,46.2,3-5-2
+295,Arsenal,Player 420,2,2,97,5,41.5,4-3-3
+35,Chelsea,Player 421,0,0,43,1,59.7,3-4-3
+266,Manchester City,Player 422,3,1,82,4,68.0,3-4-3
+418,Manchester City,Player 423,1,2,83,0,57.8,4-4-2
+138,Bayern Munich,Player 424,0,2,97,3,59.1,4-4-2
+81,Bayern Munich,Player 425,3,1,13,3,46.5,4-4-2
+454,Juventus,Player 426,1,2,45,5,62.0,4-3-3
+493,Barcelona,Player 427,2,1,18,4,44.4,4-4-2
+341,Manchester City,Player 428,1,0,99,4,52.8,3-4-3
+70,Inter Milan,Player 429,1,0,38,5,42.4,3-5-2
+270,Arsenal,Player 430,3,1,79,2,42.0,3-5-2
+467,Liverpool,Player 431,0,1,54,4,40.5,3-4-3
+135,Barcelona,Player 432,2,2,83,2,63.9,4-4-2
+203,Bayern Munich,Player 433,2,1,27,2,53.6,4-2-3-1
+98,Juventus,Player 434,1,0,23,4,66.1,4-2-3-1
+238,Barcelona,Player 435,2,0,94,3,44.8,4-4-2
+377,PSG,Player 436,0,1,14,4,45.0,4-4-2
+239,Liverpool,Player 437,2,1,78,4,57.9,4-3-3
+74,Liverpool,Player 438,1,1,100,2,51.8,3-5-2
+235,Chelsea,Player 439,2,2,81,2,61.3,4-2-3-1
+83,Manchester City,Player 440,0,2,84,3,50.6,4-2-3-1
+195,Chelsea,Player 441,3,2,15,2,55.1,3-5-2
+344,Inter Milan,Player 442,0,2,50,1,59.2,4-4-2
+269,Inter Milan,Player 443,3,0,39,1,67.0,4-4-2
+248,Arsenal,Player 444,2,1,26,0,61.5,4-4-2
+262,Barcelona,Player 445,3,0,27,1,48.1,4-3-3
+444,Barcelona,Player 446,1,1,83,2,48.9,3-4-3
+106,Chelsea,Player 447,3,1,82,4,50.8,4-3-3
+157,Manchester City,Player 448,3,2,30,4,65.4,4-4-2
+246,Juventus,Player 449,0,0,100,2,51.5,4-4-2
+435,Inter Milan,Player 450,3,1,85,1,62.4,3-4-3
+388,Bayern Munich,Player 451,0,1,60,3,51.6,3-5-2
+22,Bayern Munich,Player 452,3,0,96,1,68.0,3-5-2
+72,Chelsea,Player 453,2,0,25,3,50.9,3-5-2
+89,Liverpool,Player 454,3,2,39,1,47.0,3-5-2
+41,Real Madrid,Player 455,2,1,37,5,42.3,4-3-3
+192,Inter Milan,Player 456,3,2,56,0,64.1,4-3-3
+288,PSG,Player 457,2,0,73,0,41.5,4-3-3
+287,Arsenal,Player 458,3,2,17,3,54.3,3-5-2
+360,Barcelona,Player 459,3,2,37,3,69.3,4-4-2
+449,Arsenal,Player 460,2,0,42,4,53.5,4-2-3-1
+108,Inter Milan,Player 461,3,1,23,4,69.7,3-4-3
+42,PSG,Player 462,0,1,83,5,66.5,3-5-2
+441,Bayern Munich,Player 463,2,0,29,5,50.6,4-2-3-1
+331,Arsenal,Player 464,3,0,46,2,68.8,3-5-2
+179,Barcelona,Player 465,3,1,16,3,52.0,3-4-3
+273,PSG,Player 466,1,2,51,3,47.8,3-5-2
+404,Bayern Munich,Player 467,3,0,44,5,57.8,4-3-3
+432,Bayern Munich,Player 468,3,0,26,2,45.9,3-4-3
+340,Juventus,Player 469,0,1,32,4,59.7,4-4-2
+262,Juventus,Player 470,2,1,28,3,43.3,4-3-3
+144,Bayern Munich,Player 471,1,1,57,4,67.4,4-3-3
+345,Arsenal,Player 472,3,1,16,0,63.4,4-3-3
+386,Liverpool,Player 473,0,0,26,1,63.1,3-5-2
+235,Liverpool,Player 474,1,2,60,3,48.0,4-2-3-1
+34,Juventus,Player 475,1,1,80,4,54.5,3-4-3
+400,Inter Milan,Player 476,1,1,58,1,45.4,3-5-2
+151,Bayern Munich,Player 477,0,0,77,1,60.6,4-2-3-1
+98,PSG,Player 478,0,2,77,1,47.9,4-4-2
+110,PSG,Player 479,2,2,89,3,66.7,4-3-3
+265,Juventus,Player 480,0,2,54,0,50.3,4-3-3
+402,Bayern Munich,Player 481,2,1,98,4,56.7,4-2-3-1
+248,Bayern Munich,Player 482,3,1,22,1,60.4,3-4-3
+455,Chelsea,Player 483,1,2,97,0,59.5,4-3-3
+378,PSG,Player 484,1,2,91,2,60.5,4-3-3
+279,Arsenal,Player 485,3,2,54,4,69.7,4-3-3
+286,Inter Milan,Player 486,1,1,53,1,48.1,4-4-2
+379,Arsenal,Player 487,0,1,53,0,64.6,3-5-2
+160,Barcelona,Player 488,2,1,73,0,57.8,4-3-3
+162,Juventus,Player 489,2,1,88,2,64.8,4-2-3-1
+325,PSG,Player 490,3,0,97,5,40.4,4-3-3
+121,Barcelona,Player 491,0,1,96,5,58.2,4-2-3-1
+130,Barcelona,Player 492,0,1,62,3,47.2,4-4-2
+340,Arsenal,Player 493,3,1,90,1,62.2,3-5-2
+79,Arsenal,Player 494,0,2,63,1,50.7,4-3-3
+50,Arsenal,Player 495,1,2,50,0,62.1,4-4-2
+32,Chelsea,Player 496,2,0,24,4,66.3,3-5-2
+47,Chelsea,Player 497,3,2,86,3,66.9,4-3-3
+358,Liverpool,Player 498,2,1,52,4,42.2,3-5-2
+66,Arsenal,Player 499,0,0,28,1,41.0,3-5-2
+203,Manchester City,Player 500,2,0,42,3,47.9,3-4-3
+219,PSG,Player 501,2,1,17,2,61.4,3-4-3
+474,Manchester City,Player 502,2,2,48,0,62.2,3-5-2
+168,Juventus,Player 503,1,0,37,5,50.1,3-5-2
+393,Liverpool,Player 504,2,2,85,4,48.3,3-5-2
+367,Liverpool,Player 505,3,1,46,2,50.2,3-5-2
+84,Barcelona,Player 506,3,1,39,4,66.8,3-4-3
+253,Arsenal,Player 507,3,2,12,3,62.5,3-5-2
+147,Chelsea,Player 508,0,1,56,4,64.2,4-3-3
+423,PSG,Player 509,3,0,34,0,52.1,4-4-2
+316,Juventus,Player 510,2,1,58,2,50.5,4-4-2
+181,Bayern Munich,Player 511,2,0,34,5,61.9,4-4-2
+318,Arsenal,Player 512,3,0,65,3,56.0,4-3-3
+289,Real Madrid,Player 513,0,2,37,1,61.7,3-5-2
+179,Inter Milan,Player 514,3,0,45,5,44.2,4-3-3
+232,Manchester City,Player 515,2,1,54,4,68.8,3-5-2
+16,Juventus,Player 516,1,2,79,0,56.4,3-4-3
+414,Bayern Munich,Player 517,1,2,41,5,57.8,4-4-2
+338,Manchester City,Player 518,0,2,73,2,65.6,4-3-3
+80,Juventus,Player 519,2,0,68,5,47.9,4-2-3-1
+125,Inter Milan,Player 520,2,0,93,4,62.1,4-2-3-1
+408,Inter Milan,Player 521,3,2,78,1,47.9,4-2-3-1
+471,Chelsea,Player 522,2,1,31,4,45.4,4-3-3
+127,Inter Milan,Player 523,3,2,100,5,45.4,3-5-2
+404,Inter Milan,Player 524,1,2,86,4,46.6,3-4-3
+260,Arsenal,Player 525,3,1,29,4,41.4,4-3-3
+434,Barcelona,Player 526,2,2,54,3,42.6,3-4-3
+315,Juventus,Player 527,1,2,48,1,49.1,3-4-3
+134,Chelsea,Player 528,3,0,89,2,60.0,3-4-3
+440,Inter Milan,Player 529,0,0,30,2,45.6,3-4-3
+33,Arsenal,Player 530,0,0,53,0,56.5,3-5-2
+398,Chelsea,Player 531,3,1,60,0,40.9,3-4-3
+316,Arsenal,Player 532,1,1,21,5,49.4,4-3-3
+115,Inter Milan,Player 533,1,0,57,2,41.3,3-5-2
+368,Barcelona,Player 534,3,0,74,0,56.9,3-4-3
+419,Inter Milan,Player 535,3,0,22,2,56.1,4-4-2
+142,Arsenal,Player 536,3,0,15,3,55.5,4-4-2
+402,Bayern Munich,Player 537,1,2,25,4,53.2,4-4-2
+272,Real Madrid,Player 538,1,2,32,2,48.1,4-4-2
+374,Bayern Munich,Player 539,2,2,30,4,61.9,4-2-3-1
+466,Inter Milan,Player 540,2,2,93,2,59.7,3-5-2
+146,Bayern Munich,Player 541,0,1,46,2,64.9,3-5-2
+45,Inter Milan,Player 542,1,0,58,4,62.4,4-3-3
+488,Juventus,Player 543,2,2,64,0,51.9,4-4-2
+65,PSG,Player 544,1,0,73,2,53.9,4-3-3
+405,Liverpool,Player 545,3,0,20,0,69.1,3-5-2
+163,Real Madrid,Player 546,0,0,52,0,47.2,4-4-2
+285,Real Madrid,Player 547,1,2,22,1,61.6,3-5-2
+1,Chelsea,Player 548,1,1,28,1,61.6,4-3-3
+453,Juventus,Player 549,1,2,57,5,50.0,3-4-3
+407,Real Madrid,Player 550,0,0,60,0,43.0,4-3-3
+163,PSG,Player 551,1,1,13,2,59.3,4-2-3-1
+105,Liverpool,Player 552,1,0,40,3,48.1,4-2-3-1
+296,PSG,Player 553,3,2,38,4,62.3,3-5-2
+34,Real Madrid,Player 554,1,1,39,1,48.0,4-2-3-1
+229,Chelsea,Player 555,1,1,44,1,69.3,4-2-3-1
+203,Chelsea,Player 556,0,2,61,5,59.1,4-2-3-1
+188,Arsenal,Player 557,2,1,18,5,56.4,3-5-2
+358,Juventus,Player 558,2,1,70,5,43.6,3-4-3
+160,Chelsea,Player 559,3,1,70,1,56.8,4-3-3
+348,Chelsea,Player 560,1,0,20,1,53.0,4-2-3-1
+132,Manchester City,Player 561,2,1,31,1,43.9,3-4-3
+461,Barcelona,Player 562,0,0,96,3,69.1,4-2-3-1
+64,Real Madrid,Player 563,2,0,91,3,48.0,3-4-3
+477,Arsenal,Player 564,0,1,58,4,60.9,3-4-3
+349,Arsenal,Player 565,2,0,16,0,54.4,4-4-2
+462,Liverpool,Player 566,3,1,12,2,40.9,4-2-3-1
+466,Inter Milan,Player 567,3,0,54,4,67.7,4-4-2
+356,Bayern Munich,Player 568,1,1,67,5,62.2,4-4-2
+127,Real Madrid,Player 569,3,2,36,0,45.7,4-3-3
+346,PSG,Player 570,3,0,27,1,67.9,4-3-3
+374,PSG,Player 571,1,2,32,4,43.9,3-4-3
+357,Arsenal,Player 572,2,1,17,1,60.0,4-2-3-1
+408,Arsenal,Player 573,0,0,67,5,56.8,4-3-3
+73,Liverpool,Player 574,0,0,51,0,56.2,4-2-3-1
+295,Juventus,Player 575,1,1,84,4,46.5,3-5-2
+198,Inter Milan,Player 576,1,0,37,3,58.1,3-4-3
+491,Bayern Munich,Player 577,2,0,41,2,69.5,3-4-3
+463,Real Madrid,Player 578,3,1,14,3,64.7,3-4-3
+297,Real Madrid,Player 579,3,1,18,0,57.9,3-5-2
+476,Juventus,Player 580,1,0,14,2,51.1,4-3-3
+151,Chelsea,Player 581,2,2,10,1,46.9,4-3-3
+234,Real Madrid,Player 582,1,1,18,4,51.6,3-5-2
+85,Barcelona,Player 583,3,0,60,3,49.7,4-3-3
+192,Liverpool,Player 584,1,1,99,0,48.0,3-5-2
+106,Arsenal,Player 585,1,2,91,4,51.5,4-2-3-1
+22,Arsenal,Player 586,2,0,57,2,61.9,4-4-2
+98,Juventus,Player 587,0,1,41,5,59.6,4-3-3
+471,Real Madrid,Player 588,1,0,53,3,51.8,4-4-2
+460,Bayern Munich,Player 589,0,1,24,5,43.7,4-3-3
+214,Inter Milan,Player 590,1,0,55,3,66.6,4-3-3
+68,Liverpool,Player 591,1,0,69,3,52.5,3-5-2
+480,PSG,Player 592,3,2,70,0,65.2,4-3-3
+147,Barcelona,Player 593,2,2,93,0,43.3,4-4-2
+386,Inter Milan,Player 594,1,2,29,4,53.0,4-2-3-1
+353,Arsenal,Player 595,1,0,12,5,42.3,4-3-3
+173,PSG,Player 596,2,1,47,3,46.1,4-4-2
+156,Arsenal,Player 597,0,0,86,3,44.5,4-3-3
+176,Barcelona,Player 598,1,2,18,5,46.9,3-4-3
+142,Bayern Munich,Player 599,2,0,66,5,44.3,3-5-2
+281,Chelsea,Player 600,2,0,91,2,55.3,4-4-2
+35,Manchester City,Player 601,1,0,28,0,65.4,4-4-2
+492,Liverpool,Player 602,3,2,19,3,45.9,4-2-3-1
+198,Manchester City,Player 603,2,1,63,1,47.9,3-5-2
+382,Real Madrid,Player 604,0,2,72,1,40.7,3-4-3
+35,Arsenal,Player 605,0,2,27,3,63.2,4-4-2
+495,Barcelona,Player 606,3,0,48,5,52.2,3-5-2
+196,Liverpool,Player 607,3,1,68,5,66.3,4-4-2
+446,Inter Milan,Player 608,0,1,30,3,64.4,3-5-2
+29,Chelsea,Player 609,1,0,58,3,46.6,3-4-3
+406,Bayern Munich,Player 610,1,2,75,4,65.9,4-3-3
+50,Chelsea,Player 611,2,1,31,1,47.3,3-4-3
+310,PSG,Player 612,2,0,23,5,58.9,3-5-2
+159,Real Madrid,Player 613,0,1,65,5,62.9,3-5-2
+383,Chelsea,Player 614,1,2,58,0,56.5,4-4-2
+472,Barcelona,Player 615,3,1,85,4,57.5,3-4-3
+385,Juventus,Player 616,3,0,54,1,54.5,3-5-2
+159,Bayern Munich,Player 617,1,1,72,5,67.8,4-3-3
+454,Manchester City,Player 618,1,0,99,5,53.7,3-4-3
+164,Manchester City,Player 619,0,1,93,2,55.8,4-2-3-1
+129,Juventus,Player 620,0,0,61,0,40.5,3-4-3
+236,Manchester City,Player 621,1,0,34,4,52.7,3-5-2
+371,Barcelona,Player 622,1,2,61,4,69.2,4-3-3
+272,Arsenal,Player 623,2,1,72,3,43.5,4-2-3-1
+209,Liverpool,Player 624,3,2,10,5,41.5,4-2-3-1
+29,Barcelona,Player 625,3,1,31,0,68.5,3-5-2
+141,Bayern Munich,Player 626,0,1,89,2,50.2,3-5-2
+198,Juventus,Player 627,3,1,18,2,51.6,4-3-3
+308,Inter Milan,Player 628,2,2,22,5,58.9,4-4-2
+399,Arsenal,Player 629,1,2,53,5,62.7,4-2-3-1
+234,Barcelona,Player 630,2,1,24,4,60.9,4-2-3-1
+219,Arsenal,Player 631,1,0,32,3,45.4,4-2-3-1
+15,Inter Milan,Player 632,0,2,13,1,65.8,4-3-3
+397,Liverpool,Player 633,2,2,26,0,44.9,3-4-3
+127,Inter Milan,Player 634,2,1,85,2,55.7,4-3-3
+420,Chelsea,Player 635,2,0,52,5,62.6,4-4-2
+162,Bayern Munich,Player 636,3,0,80,5,69.9,3-5-2
+228,Manchester City,Player 637,2,2,29,2,64.7,4-4-2
+88,Inter Milan,Player 638,0,1,94,2,67.0,4-4-2
+180,PSG,Player 639,1,1,65,2,51.3,3-5-2
+461,PSG,Player 640,2,1,52,5,50.8,4-4-2
+392,Chelsea,Player 641,1,1,21,5,67.2,3-4-3
+410,Arsenal,Player 642,3,0,33,2,54.0,3-4-3
+385,Chelsea,Player 643,2,1,92,5,69.7,4-2-3-1
+40,Juventus,Player 644,0,2,48,5,54.4,4-4-2
+217,Bayern Munich,Player 645,3,1,35,2,60.0,3-5-2
+433,Juventus,Player 646,3,0,87,4,54.1,4-4-2
+4,Bayern Munich,Player 647,1,2,36,0,49.9,4-3-3
+260,Juventus,Player 648,3,1,89,1,69.5,3-5-2
+359,Arsenal,Player 649,3,2,86,5,45.4,4-2-3-1
+74,PSG,Player 650,0,2,11,4,58.6,4-2-3-1
+52,Barcelona,Player 651,1,2,76,0,55.1,3-5-2
+367,Barcelona,Player 652,2,1,78,5,59.6,4-4-2
+147,Liverpool,Player 653,1,1,41,3,65.0,3-4-3
+359,Juventus,Player 654,2,1,69,3,65.7,4-2-3-1
+60,Arsenal,Player 655,1,1,45,0,57.8,4-3-3
+81,Manchester City,Player 656,0,0,37,0,43.6,3-5-2
+110,Real Madrid,Player 657,0,1,81,1,43.5,3-5-2
+1,Juventus,Player 658,3,0,49,5,55.9,3-4-3
+125,PSG,Player 659,2,2,49,0,59.4,3-5-2
+411,Juventus,Player 660,0,1,62,2,42.2,3-4-3
+355,Liverpool,Player 661,3,1,17,4,43.8,4-2-3-1
+269,PSG,Player 662,3,0,99,5,64.0,3-5-2
+285,Real Madrid,Player 663,1,1,71,1,56.0,4-3-3
+241,Inter Milan,Player 664,2,1,87,1,61.4,4-4-2
+487,Real Madrid,Player 665,3,2,73,0,66.4,4-3-3
+445,Chelsea,Player 666,3,1,61,0,68.1,4-3-3
+227,Manchester City,Player 667,0,2,69,4,64.2,4-4-2
+322,Chelsea,Player 668,2,2,62,0,63.0,3-5-2
+474,Chelsea,Player 669,1,1,78,3,62.3,4-2-3-1
+162,Inter Milan,Player 670,1,1,92,1,66.0,3-5-2
+94,Real Madrid,Player 671,1,1,85,4,45.9,4-2-3-1
+89,Chelsea,Player 672,0,1,36,2,59.7,3-5-2
+47,Bayern Munich,Player 673,3,0,95,2,59.6,4-3-3
+351,Real Madrid,Player 674,1,0,37,3,51.0,4-4-2
+250,Bayern Munich,Player 675,2,0,100,0,40.4,3-5-2
+63,PSG,Player 676,1,0,67,1,62.1,3-5-2
+122,Inter Milan,Player 677,0,0,63,5,46.7,3-5-2
+402,Inter Milan,Player 678,3,2,72,3,70.0,3-4-3
+375,Real Madrid,Player 679,2,0,36,2,51.0,3-5-2
+90,Arsenal,Player 680,1,1,43,4,42.0,3-5-2
+447,Liverpool,Player 681,3,1,28,3,54.3,4-3-3
+314,Bayern Munich,Player 682,0,0,56,0,70.0,4-3-3
+331,Liverpool,Player 683,0,0,44,0,43.3,4-4-2
+396,Chelsea,Player 684,0,2,40,5,68.9,4-2-3-1
+34,Chelsea,Player 685,2,2,57,4,63.3,4-4-2
+138,Juventus,Player 686,0,1,62,2,43.7,4-3-3
+363,Real Madrid,Player 687,2,0,87,4,60.3,4-4-2
+332,Bayern Munich,Player 688,1,0,30,4,56.2,4-3-3
+292,Manchester City,Player 689,1,1,88,4,66.7,4-2-3-1
+407,Juventus,Player 690,3,1,14,3,46.7,3-5-2
+170,Manchester City,Player 691,0,2,96,0,63.3,4-3-3
+198,Juventus,Player 692,2,0,57,5,64.2,4-4-2
+347,Arsenal,Player 693,2,0,72,5,50.4,4-2-3-1
+83,Inter Milan,Player 694,1,1,100,2,65.0,4-4-2
+422,Bayern Munich,Player 695,2,1,30,5,42.9,4-4-2
+95,Manchester City,Player 696,0,1,85,5,56.3,4-2-3-1
+229,Bayern Munich,Player 697,3,2,52,4,64.7,4-2-3-1
+93,Real Madrid,Player 698,2,1,47,0,49.8,4-4-2
+117,Juventus,Player 699,2,2,12,0,63.8,3-5-2
+67,Real Madrid,Player 700,3,0,90,2,42.1,4-4-2
+182,Real Madrid,Player 701,1,1,30,2,59.3,3-5-2
+221,Inter Milan,Player 702,1,2,85,1,65.2,3-4-3
+100,Chelsea,Player 703,1,1,62,5,56.8,3-5-2
+55,Juventus,Player 704,0,2,83,2,49.3,4-2-3-1
+270,Liverpool,Player 705,0,2,14,0,45.4,3-5-2
+47,Barcelona,Player 706,1,2,46,4,67.2,3-5-2
+266,Manchester City,Player 707,3,0,77,3,64.8,4-2-3-1
+271,Real Madrid,Player 708,0,1,43,3,50.5,4-3-3
+496,Inter Milan,Player 709,0,0,55,2,63.3,4-2-3-1
+378,Manchester City,Player 710,2,2,36,2,46.4,4-3-3
+82,Liverpool,Player 711,0,1,78,4,60.3,4-3-3
+148,Arsenal,Player 712,2,2,57,4,45.5,4-3-3
+56,Liverpool,Player 713,0,2,69,3,63.6,4-2-3-1
+99,Juventus,Player 714,1,1,89,2,42.5,4-3-3
+196,Real Madrid,Player 715,3,2,50,3,45.1,4-4-2
+478,Arsenal,Player 716,1,1,41,4,60.7,4-4-2
+110,PSG,Player 717,1,1,50,1,42.8,4-4-2
+110,PSG,Player 718,3,1,24,0,40.5,3-4-3
+208,Inter Milan,Player 719,1,2,75,4,46.4,4-3-3
+334,Barcelona,Player 720,2,1,89,5,40.7,4-4-2
+59,Liverpool,Player 721,2,0,64,2,48.3,4-3-3
+380,Bayern Munich,Player 722,1,0,62,5,51.1,4-3-3
+288,Barcelona,Player 723,0,1,86,5,68.2,3-4-3
+202,Barcelona,Player 724,1,1,73,5,52.9,4-3-3
+231,Liverpool,Player 725,2,1,58,2,55.2,4-2-3-1
+180,Inter Milan,Player 726,3,0,90,2,52.4,4-2-3-1
+157,Bayern Munich,Player 727,1,0,57,3,60.1,3-4-3
+14,Liverpool,Player 728,0,2,45,4,61.5,3-4-3
+324,Juventus,Player 729,0,2,96,2,61.2,4-2-3-1
+223,Real Madrid,Player 730,3,2,54,3,54.4,4-3-3
+132,Chelsea,Player 731,2,1,14,0,41.6,4-3-3
+455,Inter Milan,Player 732,3,1,64,0,47.6,4-2-3-1
+350,PSG,Player 733,3,2,39,3,63.0,4-2-3-1
+264,Bayern Munich,Player 734,3,2,84,4,50.6,4-3-3
+403,Liverpool,Player 735,3,2,95,1,56.3,4-3-3
+185,Real Madrid,Player 736,3,2,68,4,60.9,3-4-3
+55,Bayern Munich,Player 737,3,0,13,3,41.4,3-4-3
+413,Inter Milan,Player 738,3,2,23,5,60.9,4-2-3-1
+296,PSG,Player 739,2,2,26,3,56.0,4-3-3
+304,Bayern Munich,Player 740,2,1,58,1,69.3,3-5-2
+418,Inter Milan,Player 741,1,2,62,1,55.2,4-2-3-1
+334,Liverpool,Player 742,2,0,39,2,67.8,4-2-3-1
+376,Liverpool,Player 743,1,0,64,4,57.6,3-5-2
+238,Chelsea,Player 744,1,1,36,3,47.9,3-5-2
+204,Bayern Munich,Player 745,1,0,12,4,65.9,4-2-3-1
+129,Juventus,Player 746,2,0,35,2,48.5,4-4-2
+376,Barcelona,Player 747,2,1,32,4,55.8,4-3-3
+175,Barcelona,Player 748,2,0,84,0,68.4,3-5-2
+54,Juventus,Player 749,2,1,35,3,62.3,4-4-2
+94,Arsenal,Player 750,0,2,53,0,65.5,3-4-3
+354,Manchester City,Player 751,0,2,74,3,46.1,4-2-3-1
+218,Real Madrid,Player 752,0,1,54,4,64.1,4-4-2
+255,Real Madrid,Player 753,0,0,59,0,45.5,4-2-3-1
+282,Real Madrid,Player 754,1,2,23,1,64.6,3-5-2
+161,Juventus,Player 755,3,0,66,2,57.7,4-2-3-1
+335,Inter Milan,Player 756,1,0,74,0,68.3,4-3-3
+368,Arsenal,Player 757,1,0,58,3,67.6,4-4-2
+454,Bayern Munich,Player 758,1,2,51,3,66.6,4-4-2
+358,Inter Milan,Player 759,1,2,13,3,50.2,4-2-3-1
+201,Inter Milan,Player 760,3,1,50,5,56.6,4-4-2
+254,Liverpool,Player 761,2,0,47,3,58.2,4-2-3-1
+369,Juventus,Player 762,0,2,83,2,61.8,4-2-3-1
+158,Manchester City,Player 763,2,1,39,3,59.1,4-3-3
+45,Inter Milan,Player 764,0,2,70,5,42.3,3-4-3
+443,Liverpool,Player 765,0,1,85,2,42.1,3-4-3
+34,PSG,Player 766,3,2,98,5,59.0,4-2-3-1
+441,Chelsea,Player 767,3,2,46,5,69.1,4-4-2
+472,Chelsea,Player 768,0,1,50,2,49.3,4-2-3-1
+128,Liverpool,Player 769,3,1,84,0,43.8,4-4-2
+396,Chelsea,Player 770,2,2,27,1,46.0,4-4-2
+17,Bayern Munich,Player 771,2,0,95,3,50.7,4-2-3-1
+418,Bayern Munich,Player 772,2,0,66,0,50.2,4-4-2
+141,Inter Milan,Player 773,0,2,73,4,47.0,4-4-2
+323,PSG,Player 774,0,1,60,4,54.0,4-4-2
+332,Inter Milan,Player 775,1,1,98,3,63.7,3-5-2
+492,Bayern Munich,Player 776,0,2,15,0,41.5,3-4-3
+348,PSG,Player 777,2,0,33,5,60.4,3-4-3
+143,Manchester City,Player 778,3,1,86,2,55.4,4-3-3
+94,PSG,Player 779,1,0,40,5,60.8,4-2-3-1
+57,Chelsea,Player 780,2,2,14,5,49.4,3-4-3
+261,Arsenal,Player 781,2,2,64,5,61.8,4-3-3
+466,PSG,Player 782,1,1,33,5,56.1,4-2-3-1
+22,Chelsea,Player 783,2,1,74,5,69.5,4-2-3-1
+334,Juventus,Player 784,1,1,79,0,61.8,3-5-2
+50,Juventus,Player 785,2,1,19,2,61.4,4-3-3
+328,PSG,Player 786,2,1,51,2,67.7,4-2-3-1
+209,Liverpool,Player 787,3,2,100,2,68.4,4-4-2
+421,PSG,Player 788,1,0,100,0,50.2,3-5-2
+469,Bayern Munich,Player 789,3,1,86,3,47.6,4-4-2
+491,Liverpool,Player 790,0,0,60,2,55.0,4-3-3
+481,Manchester City,Player 791,2,1,33,0,47.1,3-4-3
+158,Real Madrid,Player 792,2,2,97,2,41.6,4-3-3
+239,Inter Milan,Player 793,1,1,36,0,69.6,3-4-3
+411,Real Madrid,Player 794,2,0,68,5,42.7,4-2-3-1
+481,Chelsea,Player 795,3,0,99,1,68.2,3-4-3
+280,Chelsea,Player 796,1,0,38,2,65.9,4-3-3
+383,Barcelona,Player 797,0,1,61,4,61.3,3-5-2
+163,Arsenal,Player 798,0,0,12,5,46.4,4-3-3
+411,Barcelona,Player 799,1,1,57,2,48.5,4-4-2
+202,Liverpool,Player 800,3,1,57,3,53.1,4-4-2
+96,Bayern Munich,Player 801,2,2,99,2,42.9,3-5-2
+360,Manchester City,Player 802,0,0,90,0,45.2,4-3-3
+40,Inter Milan,Player 803,2,1,38,5,53.8,3-5-2
+357,Arsenal,Player 804,1,0,29,5,42.6,3-5-2
+157,Real Madrid,Player 805,1,2,98,4,47.5,3-4-3
+143,Manchester City,Player 806,3,0,89,3,45.0,4-4-2
+456,Juventus,Player 807,2,2,76,0,41.8,3-5-2
+257,Manchester City,Player 808,0,2,90,0,58.9,4-2-3-1
+54,Arsenal,Player 809,1,2,83,1,49.1,3-5-2
+384,PSG,Player 810,3,0,48,2,69.2,4-3-3
+437,Real Madrid,Player 811,3,0,56,1,69.4,4-3-3
+152,Juventus,Player 812,3,2,41,5,59.1,4-4-2
+435,Inter Milan,Player 813,2,0,96,1,42.1,3-4-3
+352,Bayern Munich,Player 814,2,0,11,1,42.4,3-5-2
+398,PSG,Player 815,2,1,33,4,53.5,4-3-3
+27,Arsenal,Player 816,1,0,98,2,50.5,4-2-3-1
+29,Bayern Munich,Player 817,0,2,83,2,56.3,3-4-3
+456,PSG,Player 818,1,2,59,5,52.6,4-2-3-1
+30,PSG,Player 819,0,1,23,1,61.2,4-3-3
+409,Barcelona,Player 820,1,2,15,1,61.0,4-4-2
+420,Real Madrid,Player 821,2,2,86,4,62.0,3-4-3
+218,Bayern Munich,Player 822,1,0,58,3,52.3,4-3-3
+51,Real Madrid,Player 823,0,1,55,3,43.7,4-4-2
+481,PSG,Player 824,0,0,77,5,48.9,4-4-2
+57,Juventus,Player 825,3,1,76,3,57.2,3-5-2
+139,Liverpool,Player 826,2,2,41,1,63.5,4-3-3
+143,Chelsea,Player 827,3,0,16,2,61.3,4-2-3-1
+193,PSG,Player 828,0,1,13,3,64.4,4-3-3
+466,Juventus,Player 829,1,0,92,2,54.1,4-2-3-1
+230,Bayern Munich,Player 830,3,0,77,0,65.8,3-5-2
+446,Real Madrid,Player 831,1,2,45,5,59.8,4-3-3
+473,Inter Milan,Player 832,2,1,13,5,47.6,3-4-3
+197,Manchester City,Player 833,0,0,75,0,68.1,4-3-3
+306,Bayern Munich,Player 834,2,2,73,1,68.5,4-4-2
+239,Liverpool,Player 835,2,2,80,1,56.5,4-2-3-1
+75,Manchester City,Player 836,3,1,37,1,60.4,4-4-2
+156,Manchester City,Player 837,1,1,29,0,64.7,4-3-3
+377,Inter Milan,Player 838,0,2,56,0,67.1,3-4-3
+66,Bayern Munich,Player 839,2,1,72,3,40.8,4-3-3
+172,Manchester City,Player 840,0,1,57,0,59.0,3-4-3
+385,Chelsea,Player 841,3,0,69,1,60.4,3-5-2
+200,Inter Milan,Player 842,0,0,83,0,63.7,4-4-2
+391,Inter Milan,Player 843,3,0,30,3,65.5,3-4-3
+410,Liverpool,Player 844,3,1,81,5,55.6,3-5-2
+323,Chelsea,Player 845,1,1,76,4,56.9,3-4-3
+355,PSG,Player 846,0,2,68,5,54.9,3-4-3
+288,PSG,Player 847,0,0,33,1,68.7,3-5-2
+440,Liverpool,Player 848,1,1,53,1,61.0,4-3-3
+228,Arsenal,Player 849,2,2,79,5,66.2,3-4-3
+101,Manchester City,Player 850,0,0,47,5,41.9,4-3-3
+85,Chelsea,Player 851,3,1,21,0,57.9,4-3-3
+130,Chelsea,Player 852,3,2,53,4,46.7,4-3-3
+350,Liverpool,Player 853,3,0,31,5,45.0,3-5-2
+339,Manchester City,Player 854,1,1,60,2,60.4,3-4-3
+291,Chelsea,Player 855,2,1,21,1,49.3,4-2-3-1
+37,Inter Milan,Player 856,3,1,67,2,53.0,4-2-3-1
+269,PSG,Player 857,3,0,66,5,46.7,4-3-3
+267,Chelsea,Player 858,1,1,38,2,58.0,4-4-2
+354,Arsenal,Player 859,1,1,47,2,54.8,3-4-3
+178,Arsenal,Player 860,0,1,46,1,62.3,3-5-2
+455,Bayern Munich,Player 861,2,0,24,2,49.5,4-2-3-1
+231,Barcelona,Player 862,1,0,46,3,64.9,4-3-3
+430,Barcelona,Player 863,1,0,18,4,47.0,3-4-3
+437,Real Madrid,Player 864,2,1,79,2,49.6,3-5-2
+492,Juventus,Player 865,0,1,71,2,57.9,3-4-3
+469,Inter Milan,Player 866,1,2,55,2,50.9,4-3-3
+23,Juventus,Player 867,2,2,90,2,49.6,3-4-3
+73,Arsenal,Player 868,1,0,87,2,40.2,3-4-3
+234,Real Madrid,Player 869,3,2,15,3,52.5,3-5-2
+19,Inter Milan,Player 870,2,2,97,4,47.0,4-4-2
+478,Manchester City,Player 871,2,1,77,4,69.3,4-2-3-1
+195,Bayern Munich,Player 872,2,2,94,4,52.9,3-5-2
+76,Liverpool,Player 873,0,2,62,4,65.6,4-4-2
+498,Chelsea,Player 874,2,0,57,2,54.3,4-3-3
+410,Barcelona,Player 875,0,2,77,2,55.7,4-4-2
+63,Juventus,Player 876,2,2,37,3,51.4,4-3-3
+453,Arsenal,Player 877,2,0,58,3,58.9,3-5-2
+455,Barcelona,Player 878,3,2,73,1,68.8,3-5-2
+369,Liverpool,Player 879,0,1,29,3,56.1,4-2-3-1
+206,PSG,Player 880,3,1,97,0,68.2,4-2-3-1
+21,Liverpool,Player 881,1,0,58,4,40.2,3-4-3
+206,Real Madrid,Player 882,1,0,12,2,58.7,3-4-3
+79,Barcelona,Player 883,3,1,96,4,52.4,4-4-2
+169,Real Madrid,Player 884,0,0,17,5,40.6,4-2-3-1
+230,Barcelona,Player 885,1,0,72,4,66.6,3-4-3
+380,Liverpool,Player 886,1,1,11,0,54.6,3-4-3
+470,Chelsea,Player 887,3,1,90,3,64.9,4-4-2
+244,Inter Milan,Player 888,2,1,54,0,53.8,4-3-3
+358,Bayern Munich,Player 889,3,1,17,4,68.9,4-2-3-1
+274,Liverpool,Player 890,2,1,80,5,52.4,3-5-2
+223,Real Madrid,Player 891,0,0,86,4,59.8,4-4-2
+47,Juventus,Player 892,0,0,11,2,61.6,3-4-3
+60,Liverpool,Player 893,0,1,60,4,53.7,4-4-2
+469,Arsenal,Player 894,1,0,35,4,45.0,4-3-3
+202,Juventus,Player 895,2,1,32,0,45.1,4-3-3
+201,Manchester City,Player 896,1,2,17,5,66.1,4-2-3-1
+199,Barcelona,Player 897,3,2,31,1,67.9,4-3-3
+153,Juventus,Player 898,3,0,77,3,51.4,4-4-2
+138,Liverpool,Player 899,1,0,17,1,50.6,3-4-3
+354,Arsenal,Player 900,1,0,14,4,54.8,4-2-3-1
+215,Barcelona,Player 901,0,0,53,3,65.8,3-4-3
+38,Arsenal,Player 902,3,1,65,0,67.9,4-3-3
+409,Liverpool,Player 903,0,0,80,3,54.4,3-5-2
+255,PSG,Player 904,1,1,34,3,49.9,4-2-3-1
+221,Arsenal,Player 905,3,0,29,1,55.3,3-4-3
+5,Juventus,Player 906,0,0,32,4,63.1,4-3-3
+45,Arsenal,Player 907,2,0,46,2,51.4,3-5-2
+440,Chelsea,Player 908,1,1,53,5,54.5,3-5-2
+329,Barcelona,Player 909,0,0,18,1,55.2,4-2-3-1
+50,Manchester City,Player 910,1,2,62,3,66.9,4-3-3
+125,Chelsea,Player 911,0,0,69,2,43.4,4-3-3
+98,Manchester City,Player 912,2,0,23,0,44.8,3-4-3
+470,PSG,Player 913,3,2,51,5,57.1,4-2-3-1
+479,Barcelona,Player 914,1,0,62,5,47.0,4-4-2
+283,Barcelona,Player 915,3,0,72,4,58.1,4-2-3-1
+257,Bayern Munich,Player 916,3,1,74,3,53.2,4-4-2
+86,Juventus,Player 917,3,0,39,5,54.2,3-4-3
+51,Real Madrid,Player 918,0,0,58,3,50.1,3-5-2
+243,Bayern Munich,Player 919,3,2,63,1,58.3,3-5-2
+289,Bayern Munich,Player 920,1,0,38,5,50.7,4-3-3
+249,Real Madrid,Player 921,2,2,68,3,45.1,4-2-3-1
+323,Real Madrid,Player 922,0,0,20,2,49.4,4-2-3-1
+335,Bayern Munich,Player 923,2,2,59,3,54.4,3-5-2
+366,Juventus,Player 924,3,2,84,4,51.7,4-3-3
+221,PSG,Player 925,1,0,94,5,57.4,3-4-3
+425,Manchester City,Player 926,3,1,75,4,64.9,3-5-2
+151,Juventus,Player 927,3,1,90,0,42.9,4-2-3-1
+148,Real Madrid,Player 928,0,0,65,0,64.3,4-3-3
+253,Manchester City,Player 929,1,2,83,1,46.2,4-4-2
+67,Liverpool,Player 930,3,2,63,3,50.9,4-2-3-1
+427,Barcelona,Player 931,3,1,59,1,52.1,4-4-2
+467,Inter Milan,Player 932,0,0,80,5,56.5,4-2-3-1
+112,Chelsea,Player 933,1,2,23,3,65.5,3-4-3
+319,Arsenal,Player 934,1,2,62,0,54.6,3-5-2
+392,Barcelona,Player 935,0,0,64,1,44.5,3-4-3
+446,Chelsea,Player 936,2,1,31,3,40.9,4-2-3-1
+418,Liverpool,Player 937,3,0,69,0,52.5,3-5-2
+387,PSG,Player 938,3,0,50,1,42.6,3-4-3
+414,Bayern Munich,Player 939,0,2,41,5,58.9,3-4-3
+219,Bayern Munich,Player 940,0,1,66,2,47.8,4-3-3
+438,Real Madrid,Player 941,1,0,39,2,57.8,4-2-3-1
+43,Chelsea,Player 942,0,0,39,5,53.4,3-4-3
+288,Chelsea,Player 943,3,1,95,5,60.1,4-2-3-1
+396,Inter Milan,Player 944,0,2,73,0,59.6,4-2-3-1
+273,Juventus,Player 945,2,1,78,5,66.9,4-2-3-1
+262,Real Madrid,Player 946,0,2,53,4,68.6,4-2-3-1
+408,Real Madrid,Player 947,1,2,41,0,42.8,4-2-3-1
+416,Real Madrid,Player 948,1,2,83,5,43.0,4-3-3
+35,Liverpool,Player 949,1,1,38,2,42.9,3-5-2
+469,Barcelona,Player 950,1,2,93,4,42.0,4-2-3-1
+343,Liverpool,Player 951,0,1,53,4,40.5,3-4-3
+199,Arsenal,Player 952,2,0,74,4,61.7,3-5-2
+302,Inter Milan,Player 953,2,1,92,2,50.5,3-5-2
+304,Inter Milan,Player 954,1,0,22,5,40.4,4-4-2
+329,Arsenal,Player 955,2,0,82,3,69.8,4-4-2
+199,PSG,Player 956,2,0,93,3,69.8,3-4-3
+137,Inter Milan,Player 957,2,2,14,3,43.6,4-2-3-1
+348,PSG,Player 958,3,2,92,5,54.0,3-5-2
+46,Bayern Munich,Player 959,0,0,93,5,51.9,3-5-2
+164,Real Madrid,Player 960,3,1,88,5,63.1,3-4-3
+476,Arsenal,Player 961,2,1,52,0,48.4,3-5-2
+478,Liverpool,Player 962,3,2,92,1,69.3,4-4-2
+235,Real Madrid,Player 963,3,0,96,3,68.5,3-5-2
+79,Juventus,Player 964,3,1,21,5,44.3,4-2-3-1
+491,PSG,Player 965,3,2,98,5,65.4,3-5-2
+26,Liverpool,Player 966,1,2,84,3,62.0,3-5-2
+342,Bayern Munich,Player 967,1,2,100,4,50.4,4-4-2
+302,Real Madrid,Player 968,3,0,33,4,49.7,4-2-3-1
+486,Inter Milan,Player 969,2,2,90,0,50.6,3-5-2
+268,Liverpool,Player 970,0,0,67,0,67.8,4-3-3
+323,Barcelona,Player 971,3,2,54,5,48.1,3-4-3
+478,Manchester City,Player 972,3,2,97,5,44.3,4-3-3
+9,Real Madrid,Player 973,1,1,29,5,56.2,4-2-3-1
+120,Chelsea,Player 974,3,1,58,0,55.8,3-5-2
+5,Barcelona,Player 975,3,0,92,3,54.3,3-4-3
+111,Barcelona,Player 976,2,0,49,1,53.1,4-2-3-1
+90,Inter Milan,Player 977,0,0,36,3,52.3,4-3-3
+41,Bayern Munich,Player 978,2,2,99,0,60.8,3-4-3
+215,Manchester City,Player 979,3,1,27,3,40.3,4-3-3
+6,PSG,Player 980,0,0,43,5,61.1,4-4-2
+477,Liverpool,Player 981,2,0,91,2,65.4,4-4-2
+330,Liverpool,Player 982,3,1,45,3,47.1,3-5-2
+318,Liverpool,Player 983,3,1,34,5,64.5,4-2-3-1
+267,Real Madrid,Player 984,3,2,51,3,45.7,3-5-2
+392,Barcelona,Player 985,0,0,71,4,54.0,4-3-3
+175,Arsenal,Player 986,1,1,23,1,47.7,3-4-3
+431,Inter Milan,Player 987,0,2,84,3,48.4,4-3-3
+397,PSG,Player 988,1,1,23,3,60.0,4-2-3-1
+477,Inter Milan,Player 989,3,2,64,3,50.8,3-5-2
+420,Chelsea,Player 990,2,1,21,1,41.0,3-5-2
+491,Juventus,Player 991,1,0,70,2,69.6,4-4-2
+460,Bayern Munich,Player 992,0,2,38,1,57.1,3-5-2
+192,Juventus,Player 993,2,2,84,4,54.9,4-2-3-1
+412,Barcelona,Player 994,0,0,18,2,66.1,4-4-2
+299,Inter Milan,Player 995,3,0,69,4,48.5,4-3-3
+239,Real Madrid,Player 996,0,1,96,3,51.9,4-2-3-1
+176,Manchester City,Player 997,0,2,68,2,59.2,3-4-3
+185,Liverpool,Player 998,1,1,54,0,42.5,3-5-2
+384,Real Madrid,Player 999,3,2,10,3,44.3,3-5-2
+393,Arsenal,Player 1000,1,1,22,1,44.6,4-2-3-1
